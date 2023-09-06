@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Samuel Adelusi"
+  page-navigation: true
+  description: "Samuel's personal website"
+  site-url: "https://deleadelusi.github.io"
+  
+  twitter-card: 
+    creator: "@sam-ade23"
+    image: "images/logo_image2.jpeg" 
+  
+  page-footer:
+    right: "...advancing my career in Data Science and Software Development"
+    left: "Copyright &copy; 2023, All right reserved."
+    background: "#3459e6"
+    
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: personal.qmd
+        text: Personal Statement
+      - career.qmd
+      - href: research.qmd
+        text: Research
+      - href: ResumeR.pdf
+        text: Resume 
+      - text: Course Assignments 
+        menu: 
+        - href: EPPS6354-210004.pdf
+          text: "Assignment 1"
+        - href: EPPS6354Assignment2.pdf
+          text: "Assignment 2" 
+        - href: EPPS6354Assignment3.pdf
+          text: "Assignment 3" 
+        - href: EPPS6354Assignment4.pdf
+          text: "Assignment 4"
+        - href: EPPS6354Assignment5.pdf
+          text: "Assignment 5" 
+        - href: EPPS6354Assignment6.pdf
+          text: "Assignment 6" 
+      - text: Blogs 
+        menu: 
+        - href: Lab0eee1.qmd
+          text: "Lab 1"   
+      - contact.qmd
+
+format:
+  html:
+    theme: Zephyr
+    css: styles.css
+    toc: true
+    fontsize: 1.0em
+    mainfont: Century Gothic
+    monofont: Calibri 
+    
