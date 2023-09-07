@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://deleadelusi.github.io/personal.html</loc>
-    <lastmod>2023-09-06T05:32:21.675Z</lastmod>
+    <lastmod>2023-09-07T00:37:28.289Z</lastmod>
   </url>
   <url>
     <loc>https://deleadelusi.github.io/about.html</loc>
-    <lastmod>2023-09-06T05:30:23.136Z</lastmod>
+    <lastmod>2023-09-07T00:42:38.898Z</lastmod>
   </url>
   <url>
     <loc>https://deleadelusi.github.io/career.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://deleadelusi.github.io/contact.html</loc>
-    <lastmod>2023-09-06T05:30:15.663Z</lastmod>
+    <lastmod>2023-09-07T00:42:34.985Z</lastmod>
   </url>
   <url>
     <loc>https://deleadelusi.github.io/gallery.html</loc>
@@ -30,6 +30,22 @@
   </url>
   <url>
     <loc>https://deleadelusi.github.io/index.html</loc>
-    <lastmod>2023-09-06T05:29:03.602Z</lastmod>
+    <lastmod>2023-09-07T00:39:57.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deleadelusi.github.io/docs/about.html</loc>
+    <lastmod>2023-09-07T01:45:03.097Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deleadelusi.github.io/docs/index.html</loc>
+    <lastmod>2023-09-07T01:57:10.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deleadelusi.github.io/docs/personal.html</loc>
+    <lastmod>2023-09-07T01:00:56.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deleadelusi.github.io/docs/career.html</loc>
+    <lastmod>2023-09-07T01:46:04.404Z</lastmod>
   </url>
 </urlset>
