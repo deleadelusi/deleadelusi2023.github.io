@@ -2,7 +2,7 @@
 title: "Brief Profile"
 ---
 
-I am Adelusi Bamidele Samuel, an accomplished and dedicated IT professional with a strong background in Computer Science - Software Development, Data Science and Database Administration. Over the years, I have acquired a comprehensive educational foundation and a wealth of practical experience that enables me to contribute significantly to my Professional field. My academic journey began at Yaba College of Technology, Nigeria, where I obtained a degree in Computer Science in 2001, marking the inception of my passion for technology and innovation.
+I am Adelusi, Bamidele Samuel, an accomplished and dedicated IT professional with a strong background in Computer Science - Software Development, Data Science and Database Administration. Over the years, I have acquired a comprehensive educational foundation and a wealth of practical experience that enables me to contribute significantly to my Professional field. My academic journey began at Yaba College of Technology, Nigeria, where I obtained a degree in Computer Science in 2001, marking the inception of my passion for technology and innovation.
 
 My ongoing pursuit of a Master's degree in Social Data Analytics and Research at the University of Texas at Dallas is an evidence of my determination to stay at the forefront of technological advancements. This program is enhancing my skills in harnessing data to derive insights, enabling me to make informed decisions that bridge the gap between technology and societal needs.
 

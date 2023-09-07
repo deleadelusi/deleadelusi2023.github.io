@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my personal website"
-image: mypix.jpg
+image: DelePix.jpeg
 resources: ResumeR.pdf
 about:
   template: jolla
@@ -18,7 +18,7 @@ about:
       href: https://github.com
     - icon: file-text
       text: resume
-      href: future/ResumeR.pdf
+      href: ResumeR.pdf
 ---
 
 I have 15+ years of professional total IT experience in design, develop, build and deployment of Software, Database, Web Applications and 5+ years of hands-on experience in architecting, automating and optimizing mission critical deployments over large infrastructure.

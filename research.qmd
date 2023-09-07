@@ -3,7 +3,7 @@ title: "Research"
 editor: visual
 ---
 
-I am a Master student studying Social Data Analytics. My research topic is on ....
+I am a Master student studying Social Data Analytics. My research topic is on Machine Learning for Public Healthcare.
 
 Interests: Data Science - Machine Learning - Deep Learning, Data Analytics
 

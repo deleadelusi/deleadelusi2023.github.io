@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Samuel Adelusi"
+  title: "Samuel Dele Adelusi"
   page-navigation: true
   description: "Samuel's personal website"
-  site-url: "https://deleadelusi.github.io"
+  site-url: "https://deleadelusi.github.io/docs"
   
   twitter-card: 
     creator: "@sam-ade23"
@@ -55,7 +55,7 @@ format:
     theme: Zephyr
     css: styles.css
     toc: true
-    fontsize: 1.0em
+    fontsize: 0.5.0em
     mainfont: Century Gothic
     monofont: Calibri 
     
